@@ -11,3 +11,4 @@ Added jimp_image_editing flow for node-red.  It automates putting text over imag
 
 2/04/2023
 Added telemetrie_hal5 flows.  Registering sales, amount of product available etc.  Testing of expiration date registration on HAL5_soep10.
+Added folder ACTUEEL containing the micropython files for the ESP32.
